@@ -1,0 +1,9 @@
+{
+  "name": "depencitizer",
+  "title": "DePencitizer",
+  "id": "jid1-XCunCyBvwnEgwg",
+  "description": "Automatically removes the Indiana Governor Call-to-Action from the in.gov DOM.",
+  "author": "P.J. Hinton",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
